@@ -794,6 +794,7 @@ body{
     color: #757575;
     display: block;
     margin-bottom: 10px;
+    cursor: pointer;
 }
 .modal-text{
     width: 100%;
